@@ -5,5 +5,6 @@ git commit -m "Update source files"
 git push origin main
 #
 # # 部署静态资源到 gh-pages 分支
+hexo clean
 hexo g
 hexo d
