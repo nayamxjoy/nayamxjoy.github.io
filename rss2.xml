@@ -4,9 +4,9 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>凝安X`随笔</title>
-    <link>https://nayamxjoy.github.io/</link>
+    <link>https://www.mxjoy.top/</link>
     
-    <atom:link href="https://nayamxjoy.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.mxjoy.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>减少期待，戒掉敏感</description>
     <pubDate>Fri, 04 Apr 2025 11:45:08 GMT</pubDate>
@@ -14,8 +14,8 @@
     
     <item>
       <title>Hello World</title>
-      <link>https://nayamxjoy.github.io/posts/3eeb.html</link>
-      <guid>https://nayamxjoy.github.io/posts/3eeb.html</guid>
+      <link>https://www.mxjoy.top/posts/3eeb.html</link>
+      <guid>https://www.mxjoy.top/posts/3eeb.html</guid>
       <pubDate>Fri, 04 Apr 2025 11:45:08 GMT</pubDate>
       
         
@@ -30,7 +30,7 @@
       
       
       
-      <comments>https://nayamxjoy.github.io/posts/3eeb.html#disqus_thread</comments>
+      <comments>https://www.mxjoy.top/posts/3eeb.html#disqus_thread</comments>
       
     </item>
     
