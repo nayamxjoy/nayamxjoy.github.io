@@ -9,7 +9,7 @@
     <atom:link href="https://www.mxjoy.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>减少期待，戒掉敏感</description>
-    <pubDate>Sun, 06 Apr 2025 05:40:02 GMT</pubDate>
+    <pubDate>Sun, 06 Apr 2025 05:53:42 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -20,13 +20,12 @@
       
         
         
-      <description>&lt;h3 id=&quot;测试页面&quot;&gt;&lt;a href=&quot;#测试页面&quot; class=&quot;headerlink&quot; title=&quot;测试页面&quot;&gt;&lt;/a&gt;测试页面&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;mxjoy.top&quot;&gt;个人主页&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>&lt;h3 id=&quot;测试页面&quot;&gt;&lt;a href=&quot;#测试页面&quot; class=&quot;headerlink&quot; title=&quot;测试页面&quot;&gt;&lt;/a&gt;测试页面&lt;/h3&gt;&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;p</description>
         
       
       
       
-      <content:encoded><![CDATA[<h3 id="测试页面"><a href="#测试页面" class="headerlink" title="测试页面"></a>测试页面</h3><p><a href="mxjoy.top">个人主页</a></p>]]></content:encoded>
+      <content:encoded><![CDATA[<h3 id="测试页面"><a href="#测试页面" class="headerlink" title="测试页面"></a>测试页面</h3><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello, World!&quot;</span>)</span><br></pre></td></tr></table></figure><p><strong><a href="https://mxjoy.top/">个人主页</a></strong></p>]]></content:encoded>
       
       
       
