@@ -6,7 +6,7 @@
   <link href="https://www.mxjoy.top/atom.xml" rel="self"/>
   
   <link href="https://www.mxjoy.top/"/>
-  <updated>2025-04-04T11:45:08.606Z</updated>
+  <updated>2025-04-06T05:40:02.368Z</updated>
   <id>https://www.mxjoy.top/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试随笔</title>
+    <link href="https://www.mxjoy.top/posts/6932.html"/>
+    <id>https://www.mxjoy.top/posts/6932.html</id>
+    <published>2025-04-06T05:38:48.000Z</published>
+    <updated>2025-04-06T05:40:02.368Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="测试页面"><a href="#测试页面" class="headerlink" title="测试页面"></a>测试页面</h3><p><a href="mxjoy.top">个人主页</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;测试页面&quot;&gt;&lt;a href=&quot;#测试页面&quot; class=&quot;headerlink&quot; title=&quot;测试页面&quot;&gt;&lt;/a&gt;测试页面&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;mxjoy.top&quot;&gt;个人主页&lt;/a&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="无聊,测试" scheme="https://www.mxjoy.top/tags/%E6%97%A0%E8%81%8A-%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>

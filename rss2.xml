@@ -9,8 +9,33 @@
     <atom:link href="https://www.mxjoy.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>减少期待，戒掉敏感</description>
-    <pubDate>Fri, 04 Apr 2025 11:45:08 GMT</pubDate>
+    <pubDate>Sun, 06 Apr 2025 05:40:02 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>测试随笔</title>
+      <link>https://www.mxjoy.top/posts/6932.html</link>
+      <guid>https://www.mxjoy.top/posts/6932.html</guid>
+      <pubDate>Sun, 06 Apr 2025 05:38:48 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h3 id=&quot;测试页面&quot;&gt;&lt;a href=&quot;#测试页面&quot; class=&quot;headerlink&quot; title=&quot;测试页面&quot;&gt;&lt;/a&gt;测试页面&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;mxjoy.top&quot;&gt;个人主页&lt;/a&gt;&lt;/p&gt;
+</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h3 id="测试页面"><a href="#测试页面" class="headerlink" title="测试页面"></a>测试页面</h3><p><a href="mxjoy.top">个人主页</a></p>]]></content:encoded>
+      
+      
+      
+      <category domain="https://www.mxjoy.top/tags/%E6%97%A0%E8%81%8A-%E6%B5%8B%E8%AF%95/">无聊,测试</category>
+      
+      
+      <comments>https://www.mxjoy.top/posts/6932.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hello World</title>
